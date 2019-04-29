@@ -1,0 +1,4 @@
+
+libgdx cross-platform game networking:
+use only two java library. one for gwt and another for server. develop your MMO rpgs now!!
+https://stackoverflow.com/questions/33616764/libgdx-connecting-cross-platform-clients-to-a-server-html5-gwt-ios-android 
