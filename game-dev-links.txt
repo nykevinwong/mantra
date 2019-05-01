@@ -3,6 +3,12 @@
 use only two java library. one for gwt and another for server. develop your MMO rpgs now!!
 https://stackoverflow.com/questions/33616764/libgdx-connecting-cross-platform-clients-to-a-server-html5-gwt-ios-android 
 
+First, you learn and play examples of below library. guess you can just implement PC/android version first.
+https://github.com/TooTallNate/Java-WebSocket
+
+Second, you use below GWT wrapper. 
+https://github.com/sksamuel/gwt-websockets
+
 (2) add client-side-prediction and authortive server for your multiplayer games
 https://www.gabrielgambetta.com/client-side-prediction-live-demo.html
 
