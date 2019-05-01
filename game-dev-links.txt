@@ -12,4 +12,5 @@ https://github.com/sksamuel/gwt-websockets
 (2) add client-side-prediction and authortive server for your multiplayer games
 https://www.gabrielgambetta.com/client-side-prediction-live-demo.html
 
-(3) 
+(3) fixed point math: emulate floating point using interger to make your game deterministic.
+http://www.flipcode.com/archives/3D_Graphics_on_Mobile_Devices-Part_2_Fixed_Point_Math.shtml
